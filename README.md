@@ -56,3 +56,4 @@ Experiencia en PHP y AWS.
 
 
 https://jmgranabuab.github.io/warzone/
+https://jmgranabuab.github.io/trophyCards/
