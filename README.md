@@ -3,7 +3,7 @@ Trabajando con metodologías ágiles, clean arquitecture, SCRUM, TDD, OOP y patr
 
 Experiencia en PHP y AWS.
 
-- 🕹️ Trabajando en proyectos de Api para las clases...
+- 🕹️ Trabajando en proyectos de Api para las clases del BC...
 
 
 - 🔭 Ultimo gran proyecto [Hangar Rebelde](https://github.com/GranainoBUAB/HangarRebelde), un proyecto basado en una tienda de comics para que el usuario pueda ver el catalogo de la tienda, reservar o comprar comics, paga por pasarela de pago o en tienda y que sea pedido enviado a casa o recogido en tienda.
