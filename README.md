@@ -5,7 +5,7 @@
 Trabajando con metodologías ágiles, clean arquitecture, SCRUM, TDD, OOP y patrones de diseño MVC.
 Experiencia en PHP y AWS.
 
-- 🕹️ Trabajando en proyectos de Api para las clases del BC.
+- 🕹️ Trabajando en proyectos Java y SpringBoot para las clases del BC.
 - 🔭 Ultimo gran proyecto [Hangar Rebelde](https://github.com/GranainoBUAB/HangarRebelde), un ecommerce para comics con pasarela de pago y gestión de pedidos.
 
 ---
