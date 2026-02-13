@@ -1,59 +1,68 @@
-<h3 align="center">Teacher and Software Developer Full-Stack, DevOps & AWS Architect</h3>
-Trabajando con metodologías ágiles, clean arquitecture, SCRUM, TDD, OOP y patrones de diseño MVC.
+# Hola! Soy JMgranaBUAB 👋
 
+### Teacher and Software Developer Full-Stack, DevOps & AWS Architect
+
+Trabajando con metodologías ágiles, clean arquitecture, SCRUM, TDD, OOP y patrones de diseño MVC.
 Experiencia en PHP y AWS.
 
 - 🕹️ Trabajando en proyectos de Api para las clases del BC.
+- 🔭 Ultimo gran proyecto [Hangar Rebelde](https://github.com/GranainoBUAB/HangarRebelde), un ecommerce para comics con pasarela de pago y gestión de pedidos.
 
+---
 
-- 🔭 Ultimo gran proyecto [Hangar Rebelde](https://github.com/GranainoBUAB/HangarRebelde), un proyecto basado en una tienda de comics para que el usuario pueda ver el catalogo de la tienda, reservar o comprar comics, paga por pasarela de pago o en tienda y que sea pedido enviado a casa o recogido en tienda.
+### 🚀 Languages and Tools
+
+| Category | Skills |
+| :--- | :--- |
+| **Backend** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Frontend** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| **Design & Tools** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-<img align="center" src='https://github.com/user-attachments/assets/fd0a7fd1-87f2-42d4-8282-d8b8fa643903' width='150'> <img align="center" src='https://github.com/user-attachments/assets/0c11cc39-abe6-49e6-9d8f-ee4d91cdb084' width='150'>
+  <img src="https://github-readme-stats.vercel.app/api?username=JMgranaBUAB&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMgranaBUAB&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMgranaBUAB&theme=radical" alt="GitHub Streak" />
+</p>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=JMgranaBUAB)
-[![wakatime](https://wakatime.com/badge/user/f39583f0-853c-45cb-8eba-ba4d3a5abe70.svg)](https://wakatime.com/@f39583f0-853c-45cb-8eba-ba4d3a5abe70)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JMgranaBUAB&theme=2077" alt="Profile Details" width="100%" /> 
+</p>
 
-## Most Used Languages from the beginning
+---
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JMgranaBUAB&theme=blue-green&langs_count=10) ![GranainoBUAB's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JMgranaBUAB\&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JMgranaBUAB&show_icons=true&theme=radical) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JMgranaBUAB&theme=highcontrast)](https://git.io/streak-stats)
+### 🏆 Trophies
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JMgranaBUAB&theme=radical" alt="Trophies" />
+  </a>
+</p>
 
-----------
+---
 
+### 🎯 Proyectos Destacados
+- [🎮 Warzone Stats](https://jmgranabuab.github.io/warzone/)
+- [🏆 Trophy Cards](https://jmgranabuab.github.io/trophyCards/)
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JmgranaBUAB&label=Profile%20views&color=0e75b6&style=flat" alt="JmgranaBUAB" /> </p>
+### 📫 Contacto
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JmgranaBUAB" alt="JmgranaBUAB" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/@granainobuab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@granainobuab" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/@granainobuab" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JmgranaBUAB&show_icons=true&locale=en&layout=compact" alt="JmgranaBUAB" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JMgranaBUAB&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JmgranaBUAB&show_icons=true&locale=en" alt="JmgranaBUAB" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JmgranaBUAB&" alt="JmgranaBUAB" /></p>
-
-##
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JMgranaBUAB&theme=2077)  
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GranainoBUAB&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GranainoBUAB&theme=2077) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GranainoBUAB&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GranainoBUAB&theme=2077&utcOffset=2) 
-
-
-
-
-https://jmgranabuab.github.io/warzone/
-https://jmgranabuab.github.io/trophyCards/
