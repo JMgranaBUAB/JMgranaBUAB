@@ -49,7 +49,7 @@ Experiencia en PHP y AWS.
 ---
 
 ### 🎯 Proyectos Destacados
-- [🏆 Platinum Cards](https://platinum-cards-react.vercel.app/)
+- [🏆 Platinum Cards - React](https://platinum-cards-react.vercel.app/)
 
 ---
 
