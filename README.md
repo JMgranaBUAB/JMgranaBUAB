@@ -49,8 +49,7 @@ Experiencia en PHP y AWS.
 ---
 
 ### 🎯 Proyectos Destacados
-- [🎮 Warzone Stats](https://jmgranabuab.github.io/warzone/)
-- [🏆 Trophy Cards](https://jmgranabuab.github.io/trophyCards/)
+- [🏆 Platinum Cards](https://platinum-cards-react.vercel.app/)
 
 ---
 
