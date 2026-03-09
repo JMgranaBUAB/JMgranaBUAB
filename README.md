@@ -1,4 +1,4 @@
-# Hola! Soy JMgranaBUAB 👋
+# Hola! Soy JM 👋
 
 ### Teacher and Software Developer Full-Stack, DevOps & AWS Architect
 
