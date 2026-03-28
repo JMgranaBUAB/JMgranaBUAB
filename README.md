@@ -5,8 +5,8 @@
 Trabajando con metodologías ágiles, clean arquitecture, SCRUM, TDD, OOP y patrones de diseño MVC.
 Experiencia en PHP y AWS.
 
-- 🕹️ Trabajando en proyectos Java y SpringBoot para las clases del BC.
-- 🔭 Ultimo gran proyecto [Hangar Rebelde](https://github.com/GranainoBUAB/HangarRebelde), un ecommerce para comics con pasarela de pago y gestión de pedidos.
+- 🔭 Trabajando en proyectos Java y SpringBoot para las clases del BC.
+- 🕹️ Proyecto en curso [PSN Trophy Viewer](https://github.com/JMgranaBUAB/psn-trophy-viewer), una app que me permite hacer el seguimiento de los trofeos de Playstation.
 
 ---
 
@@ -49,6 +49,7 @@ Experiencia en PHP y AWS.
 ---
 
 ### 🎯 Proyectos Destacados
+- [🕹️ PSN Trophy Viewer](https://github.com/JMgranaBUAB/psn-trophy-viewer)
 - [🏆 Platinum Cards - React](https://platinum-cards-react.vercel.app/)
 
 ---
