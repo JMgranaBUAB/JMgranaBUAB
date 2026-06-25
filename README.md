@@ -1,6 +1,6 @@
 # Hola! Soy JM 👋
 
-### Teacher and Software Developer Full-Stack, DevOps & AWS Architect
+### Teacher and Software Developer Full-Stack, DevOps AWS & AWS Architect
 
 Trabajando con metodologías ágiles, clean arquitecture, SCRUM, TDD, OOP y patrones de diseño MVC.
 Experiencia en PHP y AWS.
